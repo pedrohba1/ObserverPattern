@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CourseController",
+            "request": "launch",
+            "mainClass": "observer.pattern.CourseController",
+            "projectName": "praticaObserver"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CourseViewer",
+            "request": "launch",
+            "mainClass": "observer.nonpattern.CourseViewer",
+            "projectName": "praticaObserver"
+        }
+    ]
+}
